@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+streamlit
+python-dotenv
+fastapi
+uvicorn
